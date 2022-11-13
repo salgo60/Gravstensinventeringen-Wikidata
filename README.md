@@ -5,3 +5,4 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * [video](https://www.youtube.com/watch?v=hNaK1iNSvhE)
 * SPARQL
 * Karta 
+* [Möte 2018](https://phabricator.wikimedia.org/T202219#4573028)
