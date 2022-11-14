@@ -21,4 +21,4 @@ Exempel
  * [Adolf Fredriks kyrkogård blog](http://minancestry.blogspot.com/2018/05/adolf-fredriks-kyrkogard.html)
 
 ## Verktyg WIkidata 
-* [https://youtu.be/UJsT2UOkiTI Video hur OSM kopplingen fungerar]
+* [Video hur OSM kopplingen fungerar](https://youtu.be/UJsT2UOkiTI)
