@@ -7,7 +7,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
   * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) / [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
 * [Möte 2018](https://phabricator.wikimedia.org/T202219#4573028)
-* [Video](https://youtu.be/QPpYAFSgJ3g] hur Wikidata kopplar ihop Wikipedia och bilder på gravar
+* [Video](https://youtu.be/QPpYAFSgJ3g) hur Wikidata kopplar ihop Wikipedia och bilder på gravar
 
 ## Gravar kopplas till person/koordinat i Wikidata 
 Exempel
