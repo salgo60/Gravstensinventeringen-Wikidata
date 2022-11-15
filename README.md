@@ -21,4 +21,8 @@ Exempel
  * [Adolf Fredriks kyrkogård blog](http://minancestry.blogspot.com/2018/05/adolf-fredriks-kyrkogard.html)
 
 ## Verktyg WIkidata 
+Anpassningar som kan göras i Wikidata med gadgets...
 * [Video hur OSM kopplingen fungerar](https://youtu.be/UJsT2UOkiTI)
+
+Rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:MyPage/common.js) jmf med [min](https://www.wikidata.org/wiki/User:Salgo60/common.js)
+> mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Tohaomg/rearrange_values.js&action=raw&ctype=text/javascript' ); // [[User:Tohaomg/rearrange values.js]]
