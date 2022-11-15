@@ -32,5 +32,8 @@ Rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:My
 ## Browser Plug-in
 * [Wikidata:Entity_Explosion](https://www.wikidata.org/wiki/Wikidata:Entity_Explosion)
 * Video
+
+<img width="691" alt="image" src="https://user-images.githubusercontent.com/14206509/201900611-2e0a1626-e696-4f79-8864-1664e3eedfc4.png">
+
 ## Licens
 * [Wikidata licens](https://www.wikidata.org/wiki/Wikidata:Licensing) CC-0
