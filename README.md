@@ -27,5 +27,8 @@ Anpassningar som kan göras i Wikidata med gadgets...
 Rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:MyPage/common.js) jmf med [min](https://www.wikidata.org/wiki/User:Salgo60/common.js)
 > mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Tohaomg/rearrange_values.js&action=raw&ctype=text/javascript' ); // [[User:Tohaomg/rearrange values.js]]
 
+## Browser Plug-in
+* [Wikidata:Entity_Explosion](https://www.wikidata.org/wiki/Wikidata:Entity_Explosion)
+* Video
 ## Licens
 * [Wikidata licens](https://www.wikidata.org/wiki/Wikidata:Licensing) CC-0
