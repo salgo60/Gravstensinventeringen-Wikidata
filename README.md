@@ -11,7 +11,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
   * karta WD objekt med [P8592 Flygfoto WIP](https://w.wiki/5xgD)
 * [Möte 2018](https://phabricator.wikimedia.org/T202219#4573028)
 * [Video](https://youtu.be/QPpYAFSgJ3g) hur Wikidata kopplar ihop Wikipedia och bilder på gravar
-* [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xme)
+* [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
 ## Gravar kopplas till person/koordinat i Wikidata 
 Exempel
