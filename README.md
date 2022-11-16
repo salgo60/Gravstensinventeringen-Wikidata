@@ -22,14 +22,17 @@ Exempel
  * Uppsala Gamla kykogård [karta](https://w.wiki/YgA) / [lista](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/%C3%96nskem%C3%A5l_om_bilder/Sverige/Uppsala_Gamla)
  * [Adolf Fredriks kyrkogård blog](http://minancestry.blogspot.com/2018/05/adolf-fredriks-kyrkogard.html)
 
-[Entity Schema E380](https://www.wikidata.org/wiki/EntitySchema:E380)
-
+* [Entity Schema E380](https://www.wikidata.org/wiki/EntitySchema:E380) -  [video](https://youtu.be/Ef5qKnByR2c) se nedan _CheckShex.js_
 ## Verktyg Wikidata 
 Anpassningar som kan göras i Wikidata med gadgets...
 * [Video hur OSM kopplingen fungerar](https://youtu.be/UJsT2UOkiTI)
 
 Rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:MyPage/common.js) jmf med [min](https://www.wikidata.org/wiki/User:Salgo60/common.js)
 > mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Tohaomg/rearrange_values.js&action=raw&ctype=text/javascript' ); // [[User:Tohaomg/rearrange values.js]]
+
+* verktyg för att validera objekt mot ett entity schema se [video](https://youtu.be/Ef5qKnByR2c)
+
+> importScript( 'User:Teester/CheckShex.js' );
 
 ## Browser Plug-in
 * [Wikidata:Entity_Explosion](https://www.wikidata.org/wiki/Wikidata:Entity_Explosion)
