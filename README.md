@@ -22,6 +22,8 @@ Exempel
  * Uppsala Gamla kykogård [karta](https://w.wiki/YgA) / [lista](https://sv.wikipedia.org/wiki/Anv%C3%A4ndare:Salgo60/%C3%96nskem%C3%A5l_om_bilder/Sverige/Uppsala_Gamla)
  * [Adolf Fredriks kyrkogård blog](http://minancestry.blogspot.com/2018/05/adolf-fredriks-kyrkogard.html)
 
+[Entity Schema E380](https://www.wikidata.org/wiki/EntitySchema:E380)
+
 ## Verktyg Wikidata 
 Anpassningar som kan göras i Wikidata med gadgets...
 * [Video hur OSM kopplingen fungerar](https://youtu.be/UJsT2UOkiTI)
