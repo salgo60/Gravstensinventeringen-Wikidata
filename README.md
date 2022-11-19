@@ -36,8 +36,16 @@ Rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:My
 * verktyg för att validera objekt mot ett entity schema se [video](https://youtu.be/Ef5qKnByR2c) / [video2](https://www.youtube.com/watch?v=Utdg8z28GJw)
 
 > importScript( 'User:Teester/CheckShex.js' );
+### Quota problem - 
+
+Mark Tully, [2022-07-11 11:47]
+CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it tends to fail fairly often as the backend relies on WDQS and keeps overusing its quota.
+
+> Mark Tully, [2022-07-11 11:47]
+> EntityShape provides per statement and per property checks against the schema.  It uses the mediawiki api to perform the checks so doesn't have the quota problem that CheckShex has, but it doesn't support all the features of entityschemas.  In particular, it doesnt support IMPORT or AND or OR statements, but it works well for simple schemas.
 
 ## Browser Plug-in
+
 * [Wikidata:Entity_Explosion](https://www.wikidata.org/wiki/Wikidata:Entity_Explosion)
 * [Video](https://youtu.be/Al-I_qMCuUk)
 
