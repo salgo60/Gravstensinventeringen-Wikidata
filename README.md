@@ -10,13 +10,15 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * SPARQL [andra WD egenskaper där P5259 finns](https://w.wiki/5xGr) / [enbart externa](https://w.wiki/5xGo)
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
   * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) / [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
-  * karta WD objekt med [P8592 Flygfoto WIP](https://w.wiki/5xgD)
+  * karta WD objekt med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
 * [Video](https://youtu.be/QPpYAFSgJ3g) hur Wikidata kopplar ihop Wikipedia och bilder på gravar
 * [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
 [<img width="1386" alt="image" src="https://user-images.githubusercontent.com/14206509/202914138-bed57998-6068-4424-b054-8298229dcb94.png">](https://w.wiki/5xGo)
 
 [<img width="542" alt="image" src="https://user-images.githubusercontent.com/14206509/202914273-1245a118-88c0-4cf1-9855-cf378f903ccb.png">](https://w.wiki/5xJd)
+
+[<img width="636" alt="image" src="https://user-images.githubusercontent.com/14206509/202914538-df40e166-6980-4d87-a138-3b20b3f966be.png">]([https://w.wiki/5xgD](https://w.wiki/5zqo))
 
 ## Gravar kopplas till person/koordinat i Wikidata 
 Exempel
