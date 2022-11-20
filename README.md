@@ -14,6 +14,10 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * [Video](https://youtu.be/QPpYAFSgJ3g) hur Wikidata kopplar ihop Wikipedia och bilder på gravar
 * [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
+[<img width="1386" alt="image" src="https://user-images.githubusercontent.com/14206509/202914138-bed57998-6068-4424-b054-8298229dcb94.png">](https://w.wiki/5xGo)
+
+[<img width="542" alt="image" src="https://user-images.githubusercontent.com/14206509/202914273-1245a118-88c0-4cf1-9855-cf378f903ccb.png">](https://w.wiki/5xJd)
+
 ## Gravar kopplas till person/koordinat i Wikidata 
 Exempel
 * [Gävle Gamla kyrkogård](http://minancestry.blogspot.com/2020/03/gavle.html)
@@ -25,6 +29,7 @@ Exempel
 
 * [Entity Schema E380](https://www.wikidata.org/wiki/EntitySchema:E380) -  [video](https://youtu.be/Ef5qKnByR2c) se nedan _CheckShex.js_
   *  [video2](https://www.youtube.com/watch?v=Utdg8z28GJw)
+
 
 ## Verktyg Wikidata 
 Anpassningar som kan göras i Wikidata med gadgets...
