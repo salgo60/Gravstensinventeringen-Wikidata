@@ -11,6 +11,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
   * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) / [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
   * karta WD objekt med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
+  * karta [https://w.wiki/5ztV WD objekt utan OSM]
 * [Video](https://youtu.be/QPpYAFSgJ3g) hur Wikidata kopplar ihop Wikipedia och bilder på gravar
 * [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
