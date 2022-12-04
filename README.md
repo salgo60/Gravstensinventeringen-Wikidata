@@ -13,7 +13,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
   * karta WD objekt korkogårdar med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
      * karta [WD kyrkor ej kopplade med P8592 Flygfoto](https://w.wiki/5zzY)
   * karta [WD objekt utan OSM](https://w.wiki/5ztV)
-* [https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1 Wikishootme vilka kyrkogårdar som saknar bilder]
+* [Wikishootme vilka kyrkogårdar som saknar bilder](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
 
 [<img width="1203" alt="image" src="https://user-images.githubusercontent.com/14206509/205506865-899cdfd4-7bb7-49bb-9e90-b9f3ce930442.png">](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
 
