@@ -19,6 +19,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 
 
 * [Video](https://youtu.be/QPpYAFSgJ3g) hur Wikidata kopplar ihop Wikipedia och bilder på gravar
+* [Larske SPARQL](https://w.wiki/64xt) att hitta dubletter
 * [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
 [<img width="1386" alt="image" src="https://user-images.githubusercontent.com/14206509/202914138-bed57998-6068-4424-b054-8298229dcb94.png">](https://w.wiki/5xGo)
