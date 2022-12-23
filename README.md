@@ -10,10 +10,10 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * SPARQL [andra WD egenskaper där P5259 finns](https://w.wiki/5xGr) / [enbart externa](https://w.wiki/5xGo)
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
   * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) / [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
-  * karta WD objekt korkogårdar med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
+  * karta WD objekt kyrkogårdar med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
      * karta [WD kyrkor ej kopplade med P8592 Flygfoto](https://w.wiki/5zzY)
-  * karta [WD objekt utan OSM](https://w.wiki/5ztV)
-* [Wikishootme vilka kyrkogårdar som saknar bilder](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
+  * karta [WD objekt utan OSM](https://w.wiki/5ztV) / [med](https://w.wiki/68xz)
+ * [Wikishootme vilka kyrkogårdar som saknar bilder](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
 
 [<img width="1203" alt="image" src="https://user-images.githubusercontent.com/14206509/205506865-899cdfd4-7bb7-49bb-9e90-b9f3ce930442.png">](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
 
