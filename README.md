@@ -28,6 +28,9 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 [<img width="542" alt="image" src="https://user-images.githubusercontent.com/14206509/202914273-1245a118-88c0-4cf1-9855-cf378f903ccb.png">](https://w.wiki/5xJd)
 
 [<img width="636" alt="image" src="https://user-images.githubusercontent.com/14206509/202914538-df40e166-6980-4d87-a138-3b20b3f966be.png">](https://w.wiki/5zqo)
+### Fel funna
+* [Koordinat fel](https://github.com/salgo60/Gravstensinventeringen-Wikidata/issues?q=label%3A%22fel+koordinat+gravstensinbenteringen%22+)
+  * SPARQL
 
 ## Gravar kopplas till person/koordinat i Wikidata 
 Exempel
