@@ -50,13 +50,27 @@ Exempel
 Anpassningar som kan göras i Wikidata med gadgets...
 * [Video hur OSM kopplingen fungerar](https://youtu.be/UJsT2UOkiTI) / [video2](https://youtu.be/Utdg8z28GJw)
 
-Rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:MyPage/common.js) jmf med [min](https://www.wikidata.org/wiki/User:Salgo60/common.js)
+se mer verktyg jag använder se [exempel där jag beskriver vad vi gjort med Riksdagens data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/84#issuecomment-1352632278)
+
+Exempel rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:MyPage/common.js) jmf med [min](https://www.wikidata.org/wiki/User:Salgo60/common.js)
 > mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Tohaomg/rearrange_values.js&action=raw&ctype=text/javascript' ); // [[User:Tohaomg/rearrange values.js]]
 
+* detta verktyg gär att man kan flytta runt värden enklare på ett WD objekt
+
+### Open Street Map (OSM) iFrame
+
+Exempel hur en OSM kyrkogård med Wikidata koppling visas i en iframe på WD sida
+
+<img width="1258" alt="image" src="https://user-images.githubusercontent.com/14206509/210293364-aaf6fc91-8b33-4db9-8d95-a6d254e7e47e.png">
+
+* rad som skall in i common.js
+> mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Mxn/overpass.js&action=raw&ctype=text/javascript' );
+
+### Schema ShAcl
 * verktyg för att validera objekt mot ett entity schema se [video](https://youtu.be/Ef5qKnByR2c) / [video2](https://www.youtube.com/watch?v=Utdg8z28GJw)
 
 > importScript( 'User:Teester/CheckShex.js' );
-### Quota problem - 
+#### Quota problem - 
 
 Mark Tully, [2022-07-11 11:47]
 CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it tends to fail fairly often as the backend relies on WDQS and keeps overusing its quota.
@@ -75,4 +89,4 @@ CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it ten
 * [Wikidata licens](https://www.wikidata.org/wiki/Wikidata:Licensing) CC-0
 
 ## Misc
-* [Möte 2018](https://phabricator.wikimedia.org/T202219#4573028)
+* [Möte 2018 med släktforskar förbundet](https://phabricator.wikimedia.org/T202219#4573028)
