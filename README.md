@@ -105,6 +105,7 @@ Kyrkor dokumenteras av RAÄ och kan innehålla info om gravplatsen och gravar. J
 
 ## Hitta bilder på personer som ligger begravda på en kyrkogård med WIkidata / Svenskt porträttarkiv
 
+[Video](https://youtu.be/j-OhaeNshhE) - [GITHUB SPA2Commons](ss) - [Wikicommons Kategori för uppladade bilder från SPA](https://commons.wikimedia.org/wiki/Category:Uploaded_with_spa2Commons)
 * [Notebook](https://github.com/salgo60/spa2Commons/blob/main/Notebook/SPA%20cemetery.ipynb) som letar alla personer kopplade till Norra begravningsplatsen i Wikidata men saknar bild och slår sedan mot Svenskt Porträtt arkiv om det finns där kandidater
   * [WD Q26257009](https://www.wikidata.org/wiki/Q26257009) Gamla Gävle Begravningsplats
 
