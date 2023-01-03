@@ -90,3 +90,14 @@ CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it ten
 
 ## Misc
 * [Möte 2018 med släktforskar förbundet](https://phabricator.wikimedia.org/T202219#4573028)
+
+# Kopplingar RAÄ böcker kyrkor
+Kyrkor dokumenteras av RAÄ och kan innehålla info om gravplatsen och gravar. Jag gjorde en snabb test 2018 att koppla ihop dessa böcker med rätt kyrka men äve för Riddarholmskyrkan vilka personers grava i en kyrka som beskrivs se GITHUB [salgo60/SamlaLibris](https://github.com/salgo60/SamlaLibris)
+
+* [Map with churches](https://w.wiki/38V) that are documented in a RAÄ Book (also links LIBRIS/LIBRIS XL/sv:Wikipedia)
+
+[![image](https://user-images.githubusercontent.com/14206509/210299045-b708da96-6db8-470a-97cd-e2dd0047bbda.png)](https://w.wiki/38V)
+
+* [Personer beskrivna begravda i Riddarholms kyrkan](https://w.wiki/3Dd) beskrivna av en book [wd:Q61765464](https://www.wikidata.org/wiki/Q61765464)
+
+[![image](https://user-images.githubusercontent.com/14206509/210299177-e44ec736-8b0a-4bef-88e5-6c26b366ee87.png)](https://w.wiki/3Dd)
