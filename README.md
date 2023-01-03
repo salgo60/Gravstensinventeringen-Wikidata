@@ -91,7 +91,8 @@ CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it ten
 ## Misc
 * [Möte 2018 med släktforskar förbundet](https://phabricator.wikimedia.org/T202219#4573028)
 
-# Kopplingar RAÄ böcker kyrkor
+# Andra projekt / tankar 
+## Kopplingar RAÄ böcker kyrkor
 Kyrkor dokumenteras av RAÄ och kan innehålla info om gravplatsen och gravar. Jag gjorde en snabb test 2018 att koppla ihop dessa böcker med rätt kyrka men äve för Riddarholmskyrkan vilka personers grava i en kyrka som beskrivs se GITHUB [salgo60/SamlaLibris](https://github.com/salgo60/SamlaLibris)
 
 * [Map with churches](https://w.wiki/38V) that are documented in a RAÄ Book (also links LIBRIS/LIBRIS XL/sv:Wikipedia)
@@ -101,3 +102,13 @@ Kyrkor dokumenteras av RAÄ och kan innehålla info om gravplatsen och gravar. J
 * [Personer beskrivna begravda i Riddarholmskyrkan](https://w.wiki/3Dd) beskrivna av en book [wd:Q61765464](https://www.wikidata.org/wiki/Q61765464)
 
 [![image](https://user-images.githubusercontent.com/14206509/210299177-e44ec736-8b0a-4bef-88e5-6c26b366ee87.png)](https://w.wiki/3Dd)
+
+## Hitta bilder på personer som ligger begravda på en kyrkogård med WIkidata / Svenskt porträttarkiv
+
+* [Notebook](https://github.com/salgo60/spa2Commons/blob/main/Notebook/SPA%20cemetery.ipynb) som letar alla personer kopplade till Norra begravningsplatsen i Wikidata men saknar bild och slår sedan mot Svenskt Porträtt arkiv om det finns där kandidater
+  * [WD Q26257009](https://www.wikidata.org/wiki/Q26257009) Gamla Gävle Begravningsplats
+
+Exempel hur en kandidat presenteras med Ranking
+
+<img width="1260" alt="image" src="https://user-images.githubusercontent.com/14206509/210300100-7f57f027-4ad7-4f76-b6ba-9593c0b33bad.png">
+
