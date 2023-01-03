@@ -98,6 +98,6 @@ Kyrkor dokumenteras av RAÄ och kan innehålla info om gravplatsen och gravar. J
 
 [![image](https://user-images.githubusercontent.com/14206509/210299045-b708da96-6db8-470a-97cd-e2dd0047bbda.png)](https://w.wiki/38V)
 
-* [Personer beskrivna begravda i Riddarholms kyrkan](https://w.wiki/3Dd) beskrivna av en book [wd:Q61765464](https://www.wikidata.org/wiki/Q61765464)
+* [Personer beskrivna begravda i Riddarholmskyrkan](https://w.wiki/3Dd) beskrivna av en book [wd:Q61765464](https://www.wikidata.org/wiki/Q61765464)
 
 [![image](https://user-images.githubusercontent.com/14206509/210299177-e44ec736-8b0a-4bef-88e5-6c26b366ee87.png)](https://w.wiki/3Dd)
