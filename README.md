@@ -114,3 +114,12 @@ Exempel hur en kandidat presenteras med Ranking
 <img width="1260" alt="image" src="https://user-images.githubusercontent.com/14206509/210300100-7f57f027-4ad7-4f76-b6ba-9593c0b33bad.png">
 
 * [Blog om Gamla Gävle Begravningsplats](http://minancestry.blogspot.com/2020/03/gavle.html) i Wikidata
+
+## Riksdagsmän finns ofta på kyrkokogårdar
+* Wikimedia Sverige försöker nu jobba med Hembyggdsföreningar ett "enkelt" fall kanske är Riksdagspolitiker som finns i socken
+** Wikimedia Sverige projekt sponsat av sss
+** Hur vi [kopplar alla Sveriges Riksdagsmän #38](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38)
+** Projekt som HUMLAB startar för att göra en "kopia av" Wikidata dvs. en Kunskapsgraf
+*** [Karta där Riksdagsgubbarna är födda enl. Wikidata](https://w.wiki/6BmD)
+
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/14206509/210617736-df16844b-6acb-4969-9120-5e89f6fe952e.png">
