@@ -115,7 +115,7 @@ Exempel hur en kandidat presenteras med Ranking
 
 * [Blog om Gamla Gävle Begravningsplats](http://minancestry.blogspot.com/2020/03/gavle.html) i Wikidata
 
-## Riksdagsmän finns ofta på kyrkokogårdar
+## Riksdagsmän finns ofta på kyrkogårdar
 * Wikimedia Sverige försöker nu jobba med Hembyggdsföreningar ett "enkelt" fall kanske är Riksdagspolitiker som finns i socken
 ** Wikimedia Sverige projekt sponsat av sss
 ** Hur vi [kopplar alla Sveriges Riksdagsmän #38](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38)
@@ -123,3 +123,7 @@ Exempel hur en kandidat presenteras med Ranking
 *** [Karta där Riksdagsgubbarna är födda enl. Wikidata](https://w.wiki/6BmD)
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/14206509/210617736-df16844b-6acb-4969-9120-5e89f6fe952e.png">
+
+* [Projekt:Wikipedia för hela Sverige 2022](https://se.wikimedia.org/wiki/Projekt:Wikipedia_f%C3%B6r_hela_Sverige_2022)
+
+<img width="1084" alt="image" src="https://user-images.githubusercontent.com/14206509/210618794-67f13951-00a9-4b71-b9c0-ffa52f466970.png">
