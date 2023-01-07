@@ -9,24 +9,29 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * [video](https://www.youtube.com/watch?v=hNaK1iNSvhE)
 * SPARQL [andra WD egenskaper där P5259 finns](https://w.wiki/5xGr) / [enbart externa](https://w.wiki/5xGo)
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
-  * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) / [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
-  * karta WD objekt korkogårdar med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
+  * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) > 450/ [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
+  * karta WD objekt kyrkogårdar med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
      * karta [WD kyrkor ej kopplade med P8592 Flygfoto](https://w.wiki/5zzY)
-  * karta [WD objekt utan OSM](https://w.wiki/5ztV)
-* [Wikishootme vilka kyrkogårdar som saknar bilder](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
+  * karta [WD objekt utan OSM](https://w.wiki/5ztV) / [med](https://w.wiki/68x$)
+ * [Wikishootme vilka kyrkogårdar som saknar bilder](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
 
 [<img width="1203" alt="image" src="https://user-images.githubusercontent.com/14206509/205506865-899cdfd4-7bb7-49bb-9e90-b9f3ce930442.png">](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
 
 
 * [Video](https://youtu.be/QPpYAFSgJ3g) hur Wikidata kopplar ihop Wikipedia och bilder på gravar
 * [Larske SPARQL](https://w.wiki/64xt) att hitta dubletter
-* [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
+* [Begravningsplatser kopplade till FindAGrave](https://w.wiki/66bE)
+
 
 [<img width="1386" alt="image" src="https://user-images.githubusercontent.com/14206509/202914138-bed57998-6068-4424-b054-8298229dcb94.png">](https://w.wiki/5xGo)
 
 [<img width="542" alt="image" src="https://user-images.githubusercontent.com/14206509/202914273-1245a118-88c0-4cf1-9855-cf378f903ccb.png">](https://w.wiki/5xJd)
 
 [<img width="636" alt="image" src="https://user-images.githubusercontent.com/14206509/202914538-df40e166-6980-4d87-a138-3b20b3f966be.png">](https://w.wiki/5zqo)
+### Fel funna i Gravstensinventeringen
+* [Koordinat fel](https://github.com/salgo60/Gravstensinventeringen-Wikidata/issues?q=label%3A%22fel+koordinat+gravstensinbenteringen%22+)
+  * [SPARQL](https://w.wiki/6A5M)
+* [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
 ## Gravar kopplas till person/koordinat i Wikidata 
 Exempel
@@ -45,13 +50,27 @@ Exempel
 Anpassningar som kan göras i Wikidata med gadgets...
 * [Video hur OSM kopplingen fungerar](https://youtu.be/UJsT2UOkiTI) / [video2](https://youtu.be/Utdg8z28GJw)
 
-Rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:MyPage/common.js) jmf med [min](https://www.wikidata.org/wiki/User:Salgo60/common.js)
+se mer verktyg jag använder se [exempel där jag beskriver vad vi gjort med Riksdagens data](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/84#issuecomment-1352632278)
+
+Exempel rad som skall in i Wikidata [common.js](https://www.wikidata.org/wiki/Special:MyPage/common.js) jmf med [min](https://www.wikidata.org/wiki/User:Salgo60/common.js)
 > mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Tohaomg/rearrange_values.js&action=raw&ctype=text/javascript' ); // [[User:Tohaomg/rearrange values.js]]
 
+* detta verktyg gär att man kan flytta runt värden enklare på ett WD objekt
+
+### Open Street Map (OSM) iFrame
+
+Exempel hur en OSM kyrkogård med Wikidata koppling visas i en iframe på WD sida
+
+<img width="1258" alt="image" src="https://user-images.githubusercontent.com/14206509/210293364-aaf6fc91-8b33-4db9-8d95-a6d254e7e47e.png">
+
+* rad som skall in i common.js
+> mw.loader.load( '//www.wikidata.org/w/index.php?title=User:Mxn/overpass.js&action=raw&ctype=text/javascript' );
+
+### Schema ShAcl
 * verktyg för att validera objekt mot ett entity schema se [video](https://youtu.be/Ef5qKnByR2c) / [video2](https://www.youtube.com/watch?v=Utdg8z28GJw)
 
 > importScript( 'User:Teester/CheckShex.js' );
-### Quota problem - 
+#### Quota problem - 
 
 Mark Tully, [2022-07-11 11:47]
 CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it tends to fail fairly often as the backend relies on WDQS and keeps overusing its quota.
@@ -70,4 +89,41 @@ CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it ten
 * [Wikidata licens](https://www.wikidata.org/wiki/Wikidata:Licensing) CC-0
 
 ## Misc
-* [Möte 2018](https://phabricator.wikimedia.org/T202219#4573028)
+* [Möte 2018 med släktforskar förbundet](https://phabricator.wikimedia.org/T202219#4573028)
+
+# Andra projekt / tankar 
+## Kopplingar RAÄ böcker kyrkor
+Kyrkor dokumenteras av RAÄ och kan innehålla info om gravplatsen och gravar. Jag gjorde en snabb test 2018 att koppla ihop dessa böcker med rätt kyrka men äve för Riddarholmskyrkan vilka personers grava i en kyrka som beskrivs se GITHUB [salgo60/SamlaLibris](https://github.com/salgo60/SamlaLibris)
+
+* [Map with churches](https://w.wiki/38V) that are documented in a RAÄ Book (also links LIBRIS/LIBRIS XL/sv:Wikipedia)
+
+[![image](https://user-images.githubusercontent.com/14206509/210299045-b708da96-6db8-470a-97cd-e2dd0047bbda.png)](https://w.wiki/38V)
+
+* [Personer beskrivna begravda i Riddarholmskyrkan](https://w.wiki/3Dd) beskrivna av en book [wd:Q61765464](https://www.wikidata.org/wiki/Q61765464)
+
+[![image](https://user-images.githubusercontent.com/14206509/210299177-e44ec736-8b0a-4bef-88e5-6c26b366ee87.png)](https://w.wiki/3Dd)
+
+## Hitta bilder på personer som ligger begravda på en kyrkogård med WIkidata / Svenskt porträttarkiv
+
+[Video](https://youtu.be/j-OhaeNshhE) - [GITHUB SPA2Commons](ss) - [Wikicommons Kategori för uppladade bilder från SPA](https://commons.wikimedia.org/wiki/Category:Uploaded_with_spa2Commons)
+* [Notebook](https://github.com/salgo60/spa2Commons/blob/main/Notebook/SPA%20cemetery.ipynb) som letar alla personer kopplade till Gamla Gävle begravningsplats i Wikidata men saknar bild och slår sedan mot Svenskt Porträtt arkiv om det finns där kandidater
+  * [WD Q26257009](https://www.wikidata.org/wiki/Q26257009) Gamla Gävle Begravningsplats
+
+Exempel hur en kandidat presenteras med Ranking
+
+<img width="1260" alt="image" src="https://user-images.githubusercontent.com/14206509/210300100-7f57f027-4ad7-4f76-b6ba-9593c0b33bad.png">
+
+* [Blog om Gamla Gävle Begravningsplats](http://minancestry.blogspot.com/2020/03/gavle.html) i Wikidata
+
+## Riksdagsmän finns ofta på kyrkogårdar
+* Wikimedia Sverige försöker nu jobba med Hembyggdsföreningar ett "enkelt" fall kanske är Riksdagspolitiker som finns i socken
+** Wikimedia Sverige projekt sponsat av sss
+** Hur vi [kopplar alla Sveriges Riksdagsmän #38](https://github.com/salgo60/Wikidata_riksdagen-corpus/issues/38)
+** Projekt som HUMLAB startar för att göra en "kopia av" Wikidata dvs. en Kunskapsgraf
+*** [Karta där Riksdagsgubbarna är födda enl. Wikidata](https://w.wiki/6BmD)
+
+<img width="666" alt="image" src="https://user-images.githubusercontent.com/14206509/210617736-df16844b-6acb-4969-9120-5e89f6fe952e.png">
+
+* [Projekt:Wikipedia för hela Sverige 2022](https://se.wikimedia.org/wiki/Projekt:Wikipedia_f%C3%B6r_hela_Sverige_2022)
+
+<img width="1084" alt="image" src="https://user-images.githubusercontent.com/14206509/210618794-67f13951-00a9-4b71-b9c0-ffa52f466970.png">
