@@ -115,6 +115,10 @@ Exempel hur en kandidat presenteras med Ranking
 
 * [Blog om Gamla Gävle Begravningsplats](http://minancestry.blogspot.com/2020/03/gavle.html) i Wikidata
 
+## WD <-> FindAgrave cemetery
+* [Map all locations](https://w.wiki/6Lc9) withs a FindAGrave cemetery property
+** Map all also connected to Open Street Map
+
 ## Riksdagsmän finns ofta på kyrkogårdar
 * Wikimedia Sverige försöker nu jobba med Hembyggdsföreningar ett "enkelt" fall kanske är Riksdagspolitiker som finns i socken
 ** Wikimedia Sverige projekt sponsat av sss
