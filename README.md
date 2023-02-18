@@ -89,7 +89,7 @@ CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it ten
 * [Wikidata licens](https://www.wikidata.org/wiki/Wikidata:Licensing) CC-0
 
 ## Misc
-* [Möte 2018 med släktforskar förbundet](https://phabricator.wikimedia.org/T202219#4573028)
+* [Möte 2018 med släktforskarförbundet](https://phabricator.wikimedia.org/T202219#4573028)
 
 # Andra projekt / tankar 
 ## Kopplingar RAÄ böcker kyrkor
