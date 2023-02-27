@@ -1,5 +1,5 @@
 # Gravstensinventeringen-Wikidata
-Status: **On hold**
+Status: **slowly moving forward**
 
 Se hur vi kan kan koppla ihop [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) och [Gravstensinventeringen](https://www.rotter.se/gsi/begravningsplatser) bättre - mer på [Wikidata project](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gravstensinventeringen)
 
