@@ -31,7 +31,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 [<img width="636" alt="image" src="https://user-images.githubusercontent.com/14206509/202914538-df40e166-6980-4d87-a138-3b20b3f966be.png">](https://w.wiki/5zqo)
 ### Fel funna i Gravstensinventeringen
 * [Koordinat fel](https://github.com/salgo60/Gravstensinventeringen-Wikidata/issues?q=+label%3A%22fel+koordinat+gravstensinventeringen%22+)
-  * [SPARQL](https://w.wiki/6A5M)
+  * [SPARQL](https://w.wiki/6RLa)
 * [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
 ## Gravar kopplas till person/koordinat i Wikidata 
