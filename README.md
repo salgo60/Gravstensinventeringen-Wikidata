@@ -5,7 +5,7 @@ Se hur vi kan kan koppla ihop [Wikidata](https://www.youtube.com/watch?v=m_9_23j
 
 Svenska Släktforskarförbundet har byggt om sin [gravinventeringar](https://www.rotter.se/gsi/begravningsplatser) så tanken ör att koppla ihop alla Sveriges begravningsplatser med Wikidata
 
-Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P5259) i Wikidata med ung, <del>500<del>4500 poster kopplade 
+Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P5259) i Wikidata med ung, <del>500</del>4500 poster kopplade 
 * [video](https://www.youtube.com/watch?v=hNaK1iNSvhE)
 * SPARQL [andra WD egenskaper där P5259 finns](https://w.wiki/5xGr) / [enbart externa](https://w.wiki/5xGo)
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
