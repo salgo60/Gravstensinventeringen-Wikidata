@@ -1,11 +1,11 @@
 # Gravstensinventeringen-Wikidata
-Status: **On hold**
+Status: **slowly moving forward**
 
 Se hur vi kan kan koppla ihop [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) och [Gravstensinventeringen](https://www.rotter.se/gsi/begravningsplatser) bättre - mer på [Wikidata project](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gravstensinventeringen)
 
 Svenska Släktforskarförbundet har byggt om sin [gravinventeringar](https://www.rotter.se/gsi/begravningsplatser) så tanken ör att koppla ihop alla Sveriges begravningsplatser med Wikidata
 
-Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P5259) i Wikidata med ung, 500 poster kopplade 
+Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P5259) i Wikidata med ung, <del>500</del>4500 poster kopplade 
 * [video](https://www.youtube.com/watch?v=hNaK1iNSvhE)
 * SPARQL [andra WD egenskaper där P5259 finns](https://w.wiki/5xGr) / [enbart externa](https://w.wiki/5xGo)
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
@@ -13,6 +13,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
   * karta WD objekt kyrkogårdar med [P8592 Flygfoto WIP](https://w.wiki/5zqo)
      * karta [WD kyrkor ej kopplade med P8592 Flygfoto](https://w.wiki/5zzY)
   * karta [WD objekt utan OSM](https://w.wiki/5ztV) / [med](https://w.wiki/68x$)
+ * [Kyrkogårdar kopplade till en kyrka i Wikidata med en svensk Wikipedia sida](https://w.wiki/6QFa) / [ej kopplade]([sss](https://w.wiki/6QFg))
  * [Wikishootme vilka kyrkogårdar som saknar bilder](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
 
 [<img width="1203" alt="image" src="https://user-images.githubusercontent.com/14206509/205506865-899cdfd4-7bb7-49bb-9e90-b9f3ce930442.png">](https://wikishootme.toolforge.org/#lat=59.32108734509658&lng=18.027788288891315&zoom=10&layers=wikidata_image,wikidata_no_image&sparql_filter=%3Fq%20wdt%3AP6104%20wd%3AQ115206846&worldwide=1)
@@ -29,8 +30,8 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 
 [<img width="636" alt="image" src="https://user-images.githubusercontent.com/14206509/202914538-df40e166-6980-4d87-a138-3b20b3f966be.png">](https://w.wiki/5zqo)
 ### Fel funna i Gravstensinventeringen
-* [Koordinat fel](https://github.com/salgo60/Gravstensinventeringen-Wikidata/issues?q=label%3A%22fel+koordinat+gravstensinbenteringen%22+)
-  * [SPARQL](https://w.wiki/6A5M)
+* [Koordinat fel](https://github.com/salgo60/Gravstensinventeringen-Wikidata/issues?q=+label%3A%22fel+koordinat+gravstensinventeringen%22+)
+  * [SPARQL](https://w.wiki/6RLa)
 * [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
 ## Gravar kopplas till person/koordinat i Wikidata 
@@ -89,7 +90,7 @@ CheckShex uses PyShexy to check entities against schemas.  Unfortunately, it ten
 * [Wikidata licens](https://www.wikidata.org/wiki/Wikidata:Licensing) CC-0
 
 ## Misc
-* [Möte 2018 med släktforskar förbundet](https://phabricator.wikimedia.org/T202219#4573028)
+* [Möte 2018 med släktforskarförbundet](https://phabricator.wikimedia.org/T202219#4573028)
 
 # Andra projekt / tankar 
 ## Kopplingar RAÄ böcker kyrkor
