@@ -3,7 +3,7 @@ Status: **slowly moving forward**
 
 Se hur vi kan kan koppla ihop [Wikidata](https://www.youtube.com/watch?v=m_9_23jXPoE) och [Gravstensinventeringen](https://www.rotter.se/gsi/begravningsplatser) bättre - mer på [Wikidata project](https://www.wikidata.org/wiki/Wikidata:WikiProject_Gravstensinventeringen)
 
-Svenska Släktforskarförbundet har byggt om sin [gravinventeringar](https://www.rotter.se/gsi/begravningsplatser) så tanken ör att koppla ihop alla Sveriges begravningsplatser med Wikidata
+Svenska Släktforskarförbundet har byggt om sin [gravinventeringar](https://www.rotter.se/gsi/begravningsplatser) så tanken är att koppla ihop alla Sveriges begravningsplatser med Wikidata
 
 Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P5259) i Wikidata med ung, <del>500</del>4500 poster kopplade 
 * [video](https://www.youtube.com/watch?v=hNaK1iNSvhE)
