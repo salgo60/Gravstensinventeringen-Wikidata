@@ -40,7 +40,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * [Kyrkogård som saknas i Svenska Gravstensinventeringen](https://w.wiki/5xuY)
 
 ## Gravar i Gravstensinventeringen kopplade till Wikidata
-* [lista > 600 personer](https://w.wiki/6ojR)
+* [lista > 700 personer](https://w.wiki/6ojR)
 
 ## Gravar kopplas till person/koordinat i Wikidata 
 Exempel
