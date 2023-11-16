@@ -9,7 +9,7 @@ Idag finns egenskap [Property:P5259](https://www.wikidata.org/wiki/Property:P525
 * [video](https://www.youtube.com/watch?v=hNaK1iNSvhE)
 * SPARQL [andra WD egenskaper där P5259 finns](https://w.wiki/5xGr) / [enbart externa](https://w.wiki/5xGo)
 * Karta gravar / [kyrkogårdar](https://w.wiki/5xJd)
-  * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) > 920/ [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
+  * karta [FindAGrave och Gravstensinventeringen](https://w.wiki/5xKc) > 1790/ [alla FindAgrave begravningsplatser i WD](https://w.wiki/5xQt) > 12000
     * karta [FindAgrave med länk karta FindaGrave MAP](https://w.wiki/6ioK) ex. [Norra Begravningsplatsen](https://www.findagrave.com/cemetery/1972857/map)
 
 <img width="1339" alt="image" src="https://github.com/salgo60/Gravstensinventeringen-Wikidata/assets/14206509/dbe23923-404c-4a25-bb3b-d11b6a19dcbf">
